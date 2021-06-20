@@ -1,0 +1,3 @@
+'''初始化'''
+from .board import showLife, showText, endInterface
+from .spr import aircraftSprite, ufoSprite, enemySprite, myBulletSprite, enemyBulletSprite
