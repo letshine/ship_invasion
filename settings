@@ -1,0 +1,11 @@
+'''配置文件'''
+import os
+
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (50, 250, 5)
+YELLOW = (200, 200, 50)
+BLUE = (80,60,220)
+FPS=60
+SCREENSIZE = (800, 600)
